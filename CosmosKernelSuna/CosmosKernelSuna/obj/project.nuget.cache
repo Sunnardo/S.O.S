@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8yUpE/x1Rg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Suna\\source\\repos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241009033438\\cosmos.build.0.1.0-localbuild20241009033438.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241009033455\\cosmos.common.0.1.0-localbuild20241009033455.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20241009033455\\cosmos.core.0.1.0-localbuild20241009033455.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20241009033455\\cosmos.debug.kernel.0.1.0-localbuild20241009033455.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20241009033455\\cosmos.hal2.0.1.0-localbuild20241009033455.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20241009033455\\cosmos.plugs.0.1.0-localbuild20241009033455.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20241009033455\\cosmos.system2.0.1.0-localbuild20241009033455.nupkg.sha512",
+    "C:\\Users\\Suna\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20241009033455\\il2cpu.api.0.1.0-localbuild20241009033455.nupkg.sha512"
+  ],
+  "logs": []
+}

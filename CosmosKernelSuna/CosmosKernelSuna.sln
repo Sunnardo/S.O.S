@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosKernelSuna", "CosmosKernelSuna\CosmosKernelSuna.csproj", "{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102AC9A6-5C56-499C-B582-C8C4BC8B5863}
+	EndGlobalSection
+EndGlobal
