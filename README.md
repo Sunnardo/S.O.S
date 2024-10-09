@@ -1,4 +1,4 @@
-# Projecte S.O. Cosmos
+# Projecte S.O.Sunna Cosmos
  
 Benvingut al repositori de Cosmos de m6!
 
