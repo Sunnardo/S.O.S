@@ -1,4 +1,4 @@
-# Projecte S.O.S Cosmos
+# Projecte Suna'S.O.S Cosmos
  <h1 align="center">
   <br>
   <img src="./img/Screenshot_4.png" alt="S.O.S. Logo">
