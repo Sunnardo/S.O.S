@@ -1,5 +1,8 @@
 # Projecte S.O.Sunna Cosmos
- 
+ <h1 align="center">
+  <br>
+  <img src="./img/Screenshot_3-removebg-preview.png" alt="S.O.S. Logo">
+</h1>
 Benvingut al repositori de Cosmos de m6!
 
 Aquest S.O. que desenvoluparem a M6 està presentat per en Pau Fernandez.
