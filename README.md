@@ -46,7 +46,7 @@ Ara mateix no entenc molt de la materia.
  1.2-Al Visual Studio cal instal·lar les extensions següents: <br>
  <img src="./img/Screenshot_1.png" alt="Microsoft Visual Studio extensions" align="center"><br>
  1.3-Cal instal.lar el .NET 6.0 Runtime (compatibilidad a largo plazo)<br>
- <img src="./img/Screenshot_2.png" alt="Microsoft Visual Studio dependences" align="center" width=10px><br>
+ <img src="./img/Screenshot_2.png" alt="Microsoft Visual Studio dependences" align="center" width=100px><br>
  1.4-Descarreguem i instal.lem l'SDK de .NET 6.0 <br>
  <img src="./img/Screenshot_3.png" alt="Microsoft .NET framework 6.0" align="center"><br>
  1.5-Anem al github ofical de Cosmos <br>
