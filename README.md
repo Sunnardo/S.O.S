@@ -1,4 +1,4 @@
-# Projecte S.O.Sunna Cosmos
+# Projecte S.O.S Cosmos
  <h1 align="center">
   <br>
   <img src="./img/Screenshot_4.png" alt="S.O.S. Logo">
@@ -12,22 +12,23 @@
 | Bloatware                  |         ✔️         |        ❌        |
 | Comandes documentades      |         ✔️         |        ❌        |
 | Comandes sense configurar  |         ✔️         |        ❌        |
-| Codi de sobres innecessari |         ✔️         |        ❌        |
+| Codi innecessari           |         ✔️         |        ❌        |
 
 <p align="center">
-  <a href="#bulb-about">About</a> &nbsp;&bull;&nbsp;
+  <a href="#bulb-about">About-Entorn</a> &nbsp;&bull;&nbsp;
   <a href="#mag_right-research">Research</a> &nbsp;&bull;&nbsp;
   <a href="#computer-running">Running</a> &nbsp;&bull;&nbsp;</a>
 </p>
 <p>Benvingut al <del>MILLOR</del> O.S. mai creat.</p>
-Aquest S.O. que desenvoluparem a M6 està presentat per en Pau Fernandez.
-Estàs preparat per mals de cap desenvolupant el kernel d'aquest S.O.? Ganes? Endevant..
+Aquest S.O. que desenvoluparem a M6 està presentat per en Pau Fernandez "Suna".
 
-L'entorn per poder treballar en les marvelles de desenvolupar sistemes operatius és el Microsoft Visual Studio.
+## :bulb: About
+L'entorn per poder treballar en les marvelles de desenvolupar sistemes operatius és el Microsoft Visual Studio (enterprise).
 Amés, necessitarem la versió 17.6 de VMware si no volem tenir problemes i algun mal de cap.. (els tindràs igual).
 Entre d'altres dependències com el .NET framework 6..
 Si has escalat el monte del destino i has pogut arribar fins aquí, felicitats. El Kernel que està en desenvolupament
 es troba a la carpeta "CosmosKernelSuna", disfruta.
 
+## :mag_right: Research
 En un futur s'anirà implementant petites millores que fagin d'aquest S.O. un producte millor i més complet. 
 Ara mateix no entenc molt de la materia.
