@@ -5,7 +5,7 @@
 </h1>
 
 ## Features
-|                            | Sunna'S.O.S.  | ◾ Other O.S. |
+|                            | Suna'S.O.S.  | ◾ Other O.S. |
 | -------------------------- | :-----------------: | :---------------: |
 | 0 Optimització de processos|         ✔️         |        ❌        |
 | Codi Spaghetti             |         ✔️         |        ❌        |
