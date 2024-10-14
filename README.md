@@ -56,6 +56,7 @@ Ara mateix no entenc molt de la materia.
  1.7-Cercar i executar el fitxer de la imatge. Conforme el programa ens va demanant dependències, acceptem i les instal.lem totes. <br>
  <img src="./img/Screenshot_8.png" alt="InstallVS2022" align="center"><br>
  1.8-Instal.lar la versio 17.6.0 de VMWare <br>
+ <a href="https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html">
  <img src="./img/Screenshot_9.png" alt="VMware logo" align="center"><br>
- 
+ </a>
 </p>
