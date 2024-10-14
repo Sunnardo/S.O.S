@@ -19,8 +19,7 @@
   <a href="#mag_right-research">Research</a> &nbsp;&bull;&nbsp;
   <a href="#computer-running">Running</a> &nbsp;&bull;&nbsp;</a>
 </p>
-<p>Benvingut al <span style="text-decoration: line-through;">MILLOR</span> O.S. mai creat.</p>
-<p>>Benvingut al<del>MILLOR</del>O.S. mai creat.</p>
+<p>Benvingut al <del>MILLOR</del> O.S. mai creat.</p>
 Aquest S.O. que desenvoluparem a M6 està presentat per en Pau Fernandez.
 Estàs preparat per mals de cap desenvolupant el kernel d'aquest S.O.? Ganes? Endevant..
 
