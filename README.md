@@ -5,21 +5,21 @@
 </h1>
 
 ## Features
-*/Esto hay que modificarlo xD/*
-|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
+|                            | S.O.S O.S.  | ◾ Other O.S. |
 | -------------------------- | :-----------------: | :---------------: |
-| Optimized values           |         ✔️         |        〰️        |
-| Useful scripts             |         ✔️         |        〰️        |
-| Enabled in-game advantages |         ✔️         |        〰️        |
-| Documented commands        |         ✔️         |        ❌        |
-| No misconfigured commands  |         ✔️         |        ❌        |
-| Professional info sources  |         ✔️         |        ❌        |
-| Clean sheet/template       |         ✔️         |        ❌        |
-| Easy to customize          |         ✔️         |        ❌        |
-| Categorized by functions   |         ✔️         |        ❌        |
-| New commands/values        |         ✔️         |        ❌        |
-| No old command leftovers   |         ✔️         |        ❌        |
-Benvingut al repositori de Cosmos de m6!
+| 0 Optimització de processos|         ✔️         |        ❌        |
+| Codi Spaghetti             |         ✔️         |        ❌        |
+| Bloatware                  |         ✔️         |        ❌        |
+| Comandes documentades      |         ✔️         |        ❌        |
+| Comandes sense configurar  |         ✔️         |        ❌        |
+| Codi de sobres innecessari |         ✔️         |        ❌        |
+
+<p align="center">
+  <a href="#bulb-about">About</a> &nbsp;&bull;&nbsp;
+  <a href="#mag_right-research">Research</a> &nbsp;&bull;&nbsp;
+  <a href="#computer-running">Running</a> &nbsp;&bull;&nbsp;</a>
+</p>
+Benvingut al <span style="text-decoration: line-through;">MILLOR</span> O.S. mai creat.
 
 Aquest S.O. que desenvoluparem a M6 està presentat per en Pau Fernandez.
 Estàs preparat per mals de cap desenvolupant el kernel d'aquest S.O.? Ganes? Endevant..
