@@ -1,8 +1,24 @@
 # Projecte S.O.Sunna Cosmos
  <h1 align="center">
   <br>
-  <img src="./img/Screenshot_3-removebg-preview.png" alt="S.O.S. Logo">
+  <img src="./img/Screenshot_4.png" alt="S.O.S. Logo">
 </h1>
+
+## Features
+*/Esto hay que modificarlo xD/*
+|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
+| -------------------------- | :-----------------: | :---------------: |
+| Optimized values           |         ✔️         |        〰️        |
+| Useful scripts             |         ✔️         |        〰️        |
+| Enabled in-game advantages |         ✔️         |        〰️        |
+| Documented commands        |         ✔️         |        ❌        |
+| No misconfigured commands  |         ✔️         |        ❌        |
+| Professional info sources  |         ✔️         |        ❌        |
+| Clean sheet/template       |         ✔️         |        ❌        |
+| Easy to customize          |         ✔️         |        ❌        |
+| Categorized by functions   |         ✔️         |        ❌        |
+| New commands/values        |         ✔️         |        ❌        |
+| No old command leftovers   |         ✔️         |        ❌        |
 Benvingut al repositori de Cosmos de m6!
 
 Aquest S.O. que desenvoluparem a M6 està presentat per en Pau Fernandez.
