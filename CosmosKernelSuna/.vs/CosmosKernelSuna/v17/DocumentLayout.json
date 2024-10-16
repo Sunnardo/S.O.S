@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\",
+  "WorkspaceRootPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}|CosmosKernelSuna\\CosmosKernelSuna.csproj|c:\\asix2\\m6 s.o\\cosmos\\cosmoskernelsuna\\cosmoskernelsuna\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}|CosmosKernelSuna\\CosmosKernelSuna.csproj|c:\\asix2\\m6 s.o\\cosmos\\s.o.s\\cosmoskernelsuna\\cosmoskernelsuna\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5361BA92-4ACB-4859-8D56-6BDFBFBA167B}|CosmosKernelSuna\\CosmosKernelSuna.csproj|solutionrelative:cosmoskernelsuna\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Kernel.cs",
-              "DocumentMoniker": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\Kernel.cs",
+              "DocumentMoniker": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\Kernel.cs",
               "RelativeDocumentMoniker": "CosmosKernelSuna\\Kernel.cs",
-              "ToolTip": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\Kernel.cs",
+              "ToolTip": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\Kernel.cs",
               "RelativeToolTip": "CosmosKernelSuna\\Kernel.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wCEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwCcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T13:51:19.174Z",
               "EditorCaption": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj": {}
+    "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj": {}
   },
   "projects": {
-    "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj": {
+    "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
+        "projectUniqueName": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
         "projectName": "CosmosKernelSuna",
-        "projectPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
+        "projectPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
         "packagesPath": "C:\\Users\\Suna\\.nuget\\packages\\",
-        "outputPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\obj\\",
+        "outputPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S\\CosmosKernelSuna\\CosmosKernelSuna\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suna\\AppData\\Roaming\\NuGet\\NuGet.Config",

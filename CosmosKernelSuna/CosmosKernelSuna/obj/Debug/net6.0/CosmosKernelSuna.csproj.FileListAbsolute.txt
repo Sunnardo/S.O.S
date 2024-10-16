@@ -10,3 +10,16 @@ C:\Users\Suna\source\repos\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\Co
 C:\Users\Suna\source\repos\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\refint\CosmosKernelSuna.dll
 C:\Users\Suna\source\repos\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.pdb
 C:\Users\Suna\source\repos\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\ref\CosmosKernelSuna.dll
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\bin\Debug\net6.0\CosmosKernelSuna.deps.json
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\bin\Debug\net6.0\CosmosKernelSuna.dll
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\bin\Debug\net6.0\CosmosKernelSuna.pdb
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.csproj.AssemblyReference.cache
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.AssemblyInfoInputs.cache
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.AssemblyInfo.cs
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.csproj.CoreCompileInputs.cache
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.sourcelink.json
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.dll
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\refint\CosmosKernelSuna.dll
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\CosmosKernelSuna.pdb
+C:\ASIX2\M6 S.O\Cosmos\S.O.S\CosmosKernelSuna\CosmosKernelSuna\obj\Debug\net6.0\ref\CosmosKernelSuna.dll
