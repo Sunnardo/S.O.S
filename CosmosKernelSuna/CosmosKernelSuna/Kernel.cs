@@ -53,7 +53,7 @@ namespace CosmosKernelSuna
                     Console.WriteLine("|Pulsa 1 per apagar el equip |\n|Pulsa 2 per reiniciar l'equip|\n|Pulsa 3 per entrar al menú HELP| ");
                     break;
                 case "4":
-                    Console.WriteLine("La mano arriba cintura sola la media vuelta");
+                    Console.WriteLine("Mover las funciones modularmente en el switch");
                     break;
                 case "5":
                     var available_space = fs.GetAvailableFreeSpace(@"0:\");
