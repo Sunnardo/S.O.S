@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p8yUpE/x1Rg=",
+  "dgSpecHash": "9KthR1Y6ow8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suna\\source\\repos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
+  "projectFilePath": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suna\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20241009033438\\cosmos.build.0.1.0-localbuild20241009033438.nupkg.sha512",
     "C:\\Users\\Suna\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20241009033455\\cosmos.common.0.1.0-localbuild20241009033455.nupkg.sha512",

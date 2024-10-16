@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Use VMware Player or Workstation to deploy and debug.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+111a45ea185c2b0bd378d3314f3e4b17d9efc5b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CosmosKernelSuna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CosmosKernelSuna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

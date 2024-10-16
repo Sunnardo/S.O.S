@@ -589,11 +589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suna\\source\\repos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
+      "projectUniqueName": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
       "projectName": "CosmosKernelSuna",
-      "projectPath": "C:\\Users\\Suna\\source\\repos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
+      "projectPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\CosmosKernelSuna.csproj",
       "packagesPath": "C:\\Users\\Suna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suna\\source\\repos\\CosmosKernelSuna\\CosmosKernelSuna\\obj\\",
+      "outputPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\CosmosKernelSuna\\CosmosKernelSuna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suna\\AppData\\Roaming\\NuGet\\NuGet.Config",
