@@ -1,0 +1,12 @@
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\bin\Debug\net6.0\CosmosKernelSunnaPlayTest.deps.json
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\bin\Debug\net6.0\CosmosKernelSunnaPlayTest.dll
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\bin\Debug\net6.0\CosmosKernelSunnaPlayTest.pdb
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.csproj.AssemblyReference.cache
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.AssemblyInfoInputs.cache
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.AssemblyInfo.cs
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.csproj.CoreCompileInputs.cache
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.dll
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\refint\CosmosKernelSunnaPlayTest.dll
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\CosmosKernelSunnaPlayTest.pdb
+C:\ASIX2\M6 S.O\CosmosKernelSunnaPlayTest\CosmosKernelSunnaPlayTest\obj\Debug\net6.0\ref\CosmosKernelSunnaPlayTest.dll
