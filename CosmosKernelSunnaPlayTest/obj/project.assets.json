@@ -589,11 +589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASIX2\\M6 S.O\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest.csproj",
+      "projectUniqueName": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S(new)\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest.csproj",
       "projectName": "CosmosKernelSunnaPlayTest",
-      "projectPath": "C:\\ASIX2\\M6 S.O\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest.csproj",
+      "projectPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S(new)\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest.csproj",
       "packagesPath": "C:\\Users\\Suna\\.nuget\\packages\\",
-      "outputPath": "C:\\ASIX2\\M6 S.O\\CosmosKernelSunnaPlayTest\\CosmosKernelSunnaPlayTest\\obj\\",
+      "outputPath": "C:\\ASIX2\\M6 S.O\\Cosmos\\S.O.S(new)\\CosmosKernelSunnaPlayTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suna\\AppData\\Roaming\\NuGet\\NuGet.Config",

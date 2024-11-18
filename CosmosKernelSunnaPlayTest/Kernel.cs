@@ -5,6 +5,9 @@ using System.Drawing;
 using System.IO;
 using System.Text;
 using Cosmos.HAL;
+using static System.Net.WebRequestMethods;
+using static System.Net.Mime.MediaTypeNames;
+using Cosmos.Core.Memory;
 
 
 namespace CosmosKernelSunnaPlayTest
@@ -153,7 +156,90 @@ namespace CosmosKernelSunnaPlayTest
                 DrawACSIIString(canvas, Color.LimeGreen, "help -------------> Get list of commands.", 65, 450, 2);
                 DrawACSIIString(canvas, Color.LimeGreen, "about -------------> Sys info.", 65, 500, 2);
                 DrawACSIIString(canvas, Color.LimeGreen, "fm -------------> File management.", 65, 550, 2);
-                DrawACSIIString(canvas, Color.LimeGreen, "help -------------> Get list of commands.", 65, 600, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "glofad -------------> Get list of files and directories.", 65, 600, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "raffd -------------> Read all files from directory.", 65, 650, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "mkdir -------------> Create new directory.", 65, 750, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "mkfile -------------> Create new file.", 65, 800, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "delfildir -------------> Delete a file or directory.", 65, 800, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "wtf -------------> Write to file.", 65, 800, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "movef -------------> Move file.", 65, 800, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "rtff -------------> Read text from file.", 65, 800, 2);
+                DrawACSIIString(canvas, Color.LimeGreen, "ratff -------------> Read all text from file.", 65, 800, 2);
+                string opcioMenu = Console.ReadLine();
+
+                if (opcioMenu == "help")
+                {
+                    Help();
+                }
+                else if (opcioMenu == "about")
+                {
+                    About();
+                }
+                else if (opcioMenu == "fm")
+                {
+                    Filemanagement();
+                }
+                else if (opcioMenu == "glofad")
+                {
+                    filesdirectorylist();
+                }
+                else if (opcioMenu == "raffd")
+                {//pasar a grafic
+                    Console.WriteLine("Nom del directori a llegir: ");
+                    string directoriallegir = Console.ReadLine();
+                    allfilesfromdirectory( directoriallegir);
+                }
+                else if (opcioMenu == "mkdir")
+                {//pasar a grafic
+                    Console.WriteLine("Introdueix el nom del directori a crear: ");
+                    string newdirectory = Console.ReadLine();
+                    createdirectory( newdirectory);
+                }
+                else if (opcioMenu == "mkfile")
+                {//pasar a grafic
+                    Console.WriteLine("Introdueix el nom del arxiu a crear: ");
+                    string newfile = Console.ReadLine();
+                    createfile(newfile);
+                }
+                else if (opcioMenu == "delfildir")
+                {//pasar a grafic
+                    Console.WriteLine("Introdueix el nom del arxiu/directori a eliminar: ");
+                    string elimina = Console.ReadLine();
+                    deletefileordirectory( elimina);
+                }
+                else if (opcioMenu == "wtf")
+                {//pasar a grafic
+                    Console.WriteLine("Introdueix el nom del arxiu a escriure: ");
+                    string arxiuallegir = Console.ReadLine();
+                    string missatge = Console.ReadLine();
+                    writetofile( arxiuallegir,  missatge);
+                }
+                else if (opcioMenu == "movef")
+                {//pasar a grafic
+                    Console.WriteLine("Introdueix el nom del fitxer a moure: ");
+                    string file = Console.ReadLine();
+                    Console.WriteLine("Introdueix el nou path on guardar l'arxiu: ");
+                    string newpath = Console.ReadLine();
+                    MoveFile( file,  newpath);
+                }
+                else if (opcioMenu == "rtff")
+                {//pasar a grafic
+                    Console.WriteLine("Nom del arxiu a llegir: ");
+                    string arxiullegir = Console.ReadLine();
+                    readtextfromfile( arxiullegir);
+                }
+                else if (opcioMenu == "ratff")
+                {//pasar a grafic
+                    Console.WriteLine("Nom del arxiu a llegir tots els bits: ");
+                    string arxiullegirbites = Console.ReadLine();
+                    allfilesfromdirectory(arxiullegirbites);
+                }
+                else
+                {
+                    canvas.Clear();
+                    DrawACSIIString(canvas, Color.LimeGreen, "Incorrect option, type 'help' to view the list of commands", 25, 215, 2);
+                    canvas.Display();
+                }
                 canvas.Display();
             }
             void Filemanagement()
@@ -167,7 +253,7 @@ namespace CosmosKernelSunnaPlayTest
                 DrawACSIIString(canvas, Color.LimeGreen, "Write to file", 65, 650, 1);
                 DrawACSIIString(canvas, Color.LimeGreen, "Move file", 65, 700, 1);
                 DrawACSIIString(canvas, Color.LimeGreen, "Read text from file", 65, 750, 1);
-                DrawACSIIString(canvas, Color.LimeGreen, "Read text from file", 65, 800, 1);
+                DrawACSIIString(canvas, Color.LimeGreen, "Read all text from file", 65, 800, 1);
                 canvas.Display();
             }
             void Consultaespaidisp()
@@ -181,6 +267,141 @@ namespace CosmosKernelSunnaPlayTest
                 var fs_type = fs.GetFileSystemType(@"0:\");
                 DrawACSIIString(canvas, Color.LimeGreen, "File System Type: " + fs_type, 65, 600, 3);
                 canvas.Display();
+            }
+            //Crap starts here KappachungusDeluxeMcExtremeDoubleCheeseChungi
+            void filesdirectorylist()
+            {
+                //glofad -------------> Get list of files and directories.
+                var files_list = Directory.GetFiles(@"0:\");
+                var directory_list = Directory.GetDirectories(@"0:\");
+                foreach (var file in files_list)
+                {
+                    //pasar a grafic
+                    Console.WriteLine(file);
+                }
+                foreach (var directory in directory_list)
+                {
+                    Console.WriteLine(directory);
+                }
+            }
+            void allfilesfromdirectory(string directoriallegir)
+            {
+                //raffd -------------> Read all files from directory.
+                //pasar a grafic
+                var directory_list_Read_files = Directory.GetFiles(@"0:\" + directoriallegir);
+                try
+                {
+                    foreach (var file in directory_list_Read_files)
+                    {
+                        var content = File.ReadAllText(file);
+
+                        Console.WriteLine("File name: " + file);
+                        Console.WriteLine("File size: " + content.Length);
+                        Console.WriteLine("Content: " + content);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            void createdirectory(string newdirectory)
+            {
+                //mkdir------------->Create new directory.
+                //pasar a grafic
+                try
+                {
+                    Directory.CreateDirectory(@"0:\" + newdirectory);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            void createfile(string newfile)
+            {
+                //mkfile------------->Create new file.
+                //pasar a grafic
+                newfile = newfile + ".txt";
+                try
+                {
+                    var file_stream = File.Create(@"0:\" + newfile);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            void deletefileordirectory(string elimina)
+            {
+                //delfildir------------->Delete a file or directory.
+                //pasar a grafic
+                elimina = elimina + ".txt";
+                try
+                {
+                    File.Delete(@"0:\" + elimina);
+                    Directory.Delete(@"0:\" + elimina);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            void writetofile(string arxiuallegir, string missatge)
+            {
+                //wtf------------->Write to file.
+                //pasar a grafic
+                arxiuallegir = arxiuallegir + ".txt";
+                try
+                {
+                    File.WriteAllText(@"0:\" + arxiuallegir, missatge);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            static void MoveFile(string file, string newpath)
+            {
+                //movef------------->Move file.
+                //pasar a grafic
+                try
+                {
+                    File.Copy(file, newpath);
+                    File.Delete(file);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                }
+            }
+            void readtextfromfile(string arxiullegir)
+            {
+                //rtff------------->Read text from file.
+                //pasar a grafic
+                arxiullegir = arxiullegir + ".txt";
+                try
+                {
+                    Console.WriteLine(File.ReadAllText(@"0:\" + arxiullegir));
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
+            }
+            void readallfromtextfile(string arxiullegirbites)
+            {
+                //ratff------------->Read all text from file.
+                //pasar a grafic
+                arxiullegirbites = arxiullegirbites + ".txt";
+                try
+                {
+                    Console.WriteLine(File.ReadAllBytes(@"0:\" + arxiullegirbites));
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                }
             }
         }
     }
